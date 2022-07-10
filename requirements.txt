@@ -12,6 +12,7 @@ gunicorn==20.1.0
 jmespath==1.0.1
 Markdown==3.3.7
 Pillow==9.1.1
+psycopg2==2.9.3
 python-dateutil==2.8.2
 pytz==2022.1
 s3transfer==0.6.0
