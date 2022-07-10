@@ -19,6 +19,7 @@ whitenoise = "*"
 boto3 = "*"
 django-storages = "*"
 django-environ = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
